@@ -119,16 +119,19 @@ Types of Testing and Importance in Software Quality Assurance:
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt Engineering and Its Importance in Interacting with AI Models:
-•	Definition: Prompt engineering is all about crafting your questions and instructions in a way that helps get the best responses from your AI assistant. It ensures that AI 
-  models produce accurate and relevant outputs. Prompt engineering guides AI model behavior through input. This involves selecting the right words and phrases to use in the 
-  prompt, as well as optimizing the structure and format of the prompt to guide the model towards generating the desired type of response.
-  
+•	Definition: Prompt engineering is all about crafting your questions and instructions in a way that helps get the best responses from your AI assistant. It ensures that 
+   AI 
+   models produce accurate and relevant outputs. Prompt engineering guides AI model behavior through input. This involves selecting the right words and phrases to use in 
+   the 
+   prompt, as well as optimizing the structure and format of the prompt to guide the model towards generating the desired type of response. 
 •	Importance: Ensures AI models respond accurately and appropriately to prompts, enhancing their usability and effectiveness
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Example of a Vague Prompt and Its Improvement:
 •	Vague Prompt: "Develop a new software feature."
 •	Improved Prompt: "Implement a real-time chat feature with automated response suggestions for customer support agents."
-•	Explanation: The improved prompt specifies the feature, its functionality, and the target users, providing clear direction for development. This clarity helps avoid ambiguity, sets clear expectations, and guides the development process effectively.
+•	Explanation: The improved prompt specifies the feature, its functionality, and the target users, providing clear direction for development. This clarity helps avoid 
+   ambiguity, sets clear expectations, and guides the development process effectively.
 
